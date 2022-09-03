@@ -18,3 +18,12 @@ a:visited {
 a:hover, a:active {
     color: #eee;
 }
+
+input
+{
+  color:aliceblue;
+}
+input, textarea
+{
+  color:black;
+}
